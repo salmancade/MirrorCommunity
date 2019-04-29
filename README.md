@@ -18,19 +18,19 @@ Thanks for your interest in contributing to the this amazing project There are m
 
 kindly,folllow the pattern below
 
--*Fork the repo
+-Fork the repo
 
--*Create a new branch (git checkout -b improve-feature)
+-Create a new branch (git checkout -b improve-feature)
 
--*Make the appropriate changes in the files
+-Make the appropriate changes in the files
 
--*Add changes to reflect the changes made
+-Add changes to reflect the changes made
 
--*Commit your changes (git commit -am 'Improve feature')
+-Commit your changes (git commit -am 'Improve feature')
 
--*Push to the branch (git push origin improve-feature)
+-Push to the branch (git push origin improve-feature)
 
--*Create a Pull Request
+-Create a Pull Request
 
 
 ## Installation
@@ -44,4 +44,4 @@ if you want to run in your machine, Use the latest chrome or firefox browser and
 This project has a code of conduct. kindly, adhere to it 
 
 ## License
-MIT licence
+Attribution 4.0 International (CC BY 4.0)
