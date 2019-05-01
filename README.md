@@ -42,6 +42,5 @@ if you want to run in your machine, Use the latest chrome or firefox browser and
 ## Participation Guidelines
 
 This project has a code of conduct. kindly, adhere to it 
-
 ## License
 Attribution 4.0 International (CC BY 4.0)
